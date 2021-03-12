@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWidget</string>
+    <string name="exapp_name">초 간단 계산기</string>
+</resources>
